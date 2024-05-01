@@ -1,4 +1,9 @@
-### Hi there 👋
+# Jeremy Reed
+
+Programmer and Reverse Engineer
+
+## Contact Me
+Discord - @grojdg
 
 <!--
 **xxk-i/xxk-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
