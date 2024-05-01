@@ -1,6 +1,7 @@
 # Jeremy Reed
 
-Programmer and Reverse Engineer
+Programmer, Reverse Engineer, Musician, Writer
+
 
 ## Contact Me
 Discord - @grojdg
